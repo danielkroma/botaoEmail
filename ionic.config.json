@@ -1,5 +1,7 @@
 {
   "name": "botaoQueEnviaEmail",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
